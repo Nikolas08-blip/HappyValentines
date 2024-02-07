@@ -18,7 +18,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(247, 183, 243);
+    background-color: rgb(243, 169, 181);
 }
 
 
@@ -53,7 +53,7 @@ body{
 .front{
     z-index: 1;
     backface-visibility: hidden;
-    border-left: 3px solid rgb(247, 183, 243);
+    border-left: 3px solid rgb(243, 169, 181);
 }
 
 .back{
